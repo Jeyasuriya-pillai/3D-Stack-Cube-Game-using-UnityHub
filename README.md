@@ -15,7 +15,7 @@ A simple 3D stack cube game built using Unity and C#. The player must stack movi
 Click to drop cubes and stack them accurately.
 
 ## 📸 Preview
-![Gameplay](1.png)
+![Gameplay](https://github.com/Jeyasuriya-pillai/3D-Stack-Cube-Game-using-UnityHub/tree/main/GamePlay%20Preview)
 
 ## 👨‍💻 Author
 Jeyasuriya
